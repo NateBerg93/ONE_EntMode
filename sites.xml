@@ -1,0 +1,74 @@
+<site-list version="1">
+  <site url="tops.namapmterminals.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="orion2.scspa.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="e-pods.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="terminalops3.gaports.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="tos.global-terminal.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="goport.scspa.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="forecast.halterm.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="portal.maherterminals.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="holtlogistics.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mct.tideworks.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sgtforms2.portsamerica.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="tos.poha.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="n4nit.vit.org">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ecargo.ncports.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="nolan4.portsamerica.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="tos.trapac.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="n4vig.vit.org">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webportal.globalterminalsnewyork.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+</site-list>
