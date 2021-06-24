@@ -1,0 +1,10 @@
+<site-list version="205">
+    <site url="tos.trapac.com">
+        <compat-mode>IE11Enterprise</compat-mode>
+        <open-in>MSEdge</open-in>
+    </site>
+    <site url="example2.com">
+        <compat-mode>default</compat-mode>
+        <open-in>IE11</open-in>
+    </site>
+</site-list>
