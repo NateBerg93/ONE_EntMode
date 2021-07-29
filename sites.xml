@@ -1,8 +1,4 @@
 <site-list version="1">
-  <site url="tops.namapmterminals.com">
-    <compat-mode>IE11</compat-mode>
-    <open-in allow-redirect="true">IE11</open-in>
-  </site>
   <site url="e-pods.com">
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
