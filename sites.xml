@@ -59,4 +59,8 @@
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
+  <site url="n4.fenixmarineservices.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
 </site-list>
