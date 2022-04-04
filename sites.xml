@@ -71,7 +71,7 @@
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
-  <site url="newportsystemsusa.com/">
+  <site url="newportsystemsusa.com">
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
