@@ -1,3 +1,5 @@
+[{"toplevel_name":"ONE NA Terminal List"},{"name":"APM terminals","url":"https://termview.apmterminals.com"},{"name":"Charleston Orion","url":"https://orion2.scspa.com/"},{"name":"GO Port Charleston","url":"https://goport.scspa.com/scspa/"},{"name":"Georgia Ports Authority","url":"http://savn4.gaports.com"},{"name":"Global Terminals","url":"https://tos.global-terminal.com/"},{"name":"Halterm Container Terminal Ltd","url":"http://forecast.halterm.com/fc-HAL/default.do"},{"name":"Maher Terminals Portal (Colo)","url":"https://mahercsp.maherterminals.com/CSP/"},{"name":"Packer Ave Terminal","url":"http://webclient.holtlogistics.com/webclient/"},{"name":"Paul W. Conley Marine Terminal - Forecast® by Tideworks","url":"https://mct.tideworks.com/fc-MCT/default.do"},{"name":"Port of Baltimore","url":"http://sgtforms2.portsamerica.com:7778/forms/frmservlet?config=EXPRESS"},{"name":"Port of Charleston","url":"https://orion2.scspa.com/"},{"name":"Port of Houston - Barbours Cut","url":"http://tos.poha.com/apex/apex.jnlp"},{"name":"Norfolk International Terminal (NIT) | Port of Virginia","url":"http://n4nit.vit.org/"},{"name":"Port of Wilmington","url":"http://n4.ncports.com/"},{"name":"Ports America New Orleans Web Express Access","url":"http://nolan4.portsamerica.com/"},{"name":"TRAPAC","url":"https://tos.trapac.com/"},{"name":"Virginia International Terminal (VIT) | Port of Virginia","url":"http://n4vig.vit.org/"},{"name":"Welcome to GCT New York LP","url":"http://webportal.globalterminalsnewyork.com/gctusa/nyct/index.php"},{"name":"Feenix Marine Services","url":"http://n4.fenixmarineservices.com:10080/apex/apex.jnlp"},{"name":"LBCT Terminal","url":"http://n4.lbct.com"},{"name":"e-pod","url":"http://www.e-pods.com/"}]
+
 <site-list version="1">
   <site url="e-pods.com">
     <compat-mode>IE11</compat-mode>
@@ -68,6 +70,10 @@
     <open-in allow-redirect="true">IE11</open-in>
   </site>
   <site url="n4.lbct.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="newportsystemsusa.com/">
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
