@@ -4,7 +4,11 @@
     <open-in allow-redirect="true">IE11</open-in>
   </site>
   <site url="one-wes.com">
-    <compat-mode>IE11</compat-mode>
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="one-wes.newportsystemsusa.com">
+    <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
   <site url="savn4.gaports.com">
