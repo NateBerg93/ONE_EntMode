@@ -75,7 +75,11 @@
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
-  <site url="cgateway.adp.ca/payatwork">
+  <site url="cgateway.adp.ca">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="agateway.adp.ca">
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
