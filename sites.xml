@@ -96,8 +96,8 @@
     <open-in allow-redirect="true">IE11</open-in>
   </site>
   <site url="forecast.scspa.com">
-    <compat-mode>IE11</compat-mode>
-    <open-in allow-redirect="true">IE11</open-in>
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">MSEdge</open-in>
   </site>
   <site url="orion2.scsps.com">
     <compat-mode>IE11</compat-mode>
