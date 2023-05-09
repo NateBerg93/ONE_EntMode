@@ -23,10 +23,6 @@
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
-  <site url="holtlogistics.com">
-    <compat-mode>IE11</compat-mode>
-    <open-in allow-redirect="true">IE11</open-in>
-  </site>
   <site url="mct.tideworks.com">
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
